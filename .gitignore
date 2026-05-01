@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+obj/
+publish/
+
+# Local tooling/bootstrap
+.dotnet/
+.dotnet-cli/
+.dotnet-install.ps1
+.nuget/
+.appdata/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# Logs
+*.log
+
+# Generated Excel data
+*.xlsx
