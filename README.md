@@ -92,6 +92,21 @@ InvoiceEntryApp/
   Program.cs
 ```
 
+## Download and run
+
+If you download this repository as a ZIP, run the rebuilt application from:
+
+```text
+Release/InvoiceEntryApp.exe
+```
+
+Important:
+
+- `Release/InvoiceEntryApp.exe` is the rebuilt application
+- `Reference/Order Entry.exe` is only the original reference demo asset and is not the app you should use
+
+On first launch, the rebuilt app will ask you to choose or create the Excel workbook used for invoice storage.
+
 ## Run the application
 
 If you already have a published build, run:
